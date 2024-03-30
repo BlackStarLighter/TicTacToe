@@ -1,2 +1,2 @@
 # TicTacToe
-Simple console game that everyone knows :)
+A simple console game that everyone knows :)
